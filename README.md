@@ -1,12 +1,12 @@
 <p align="center"><img src="images/snehiptv.gif" width="350" height="220"></p>
-<h1 align="center"> ✯ Sneh IPTV v3.6 ✯ </h1>
+<h1 align="center"> ✯ Bloginstall IPTV v1.0 ✯ </h1>
 
 <p align="center"><b>Here You Can get all Live Streaming Movies Musics Sports Wildlife etc Channels URL's and Direct Play Anywhere</b></p><br>
 
-<p align="center">🔕 Sneh IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
+<p align="center">🔕 Bloginstall IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
 
 
-<h2> 🍃 Updates v3.6 : </h2>
+<h2> 🍃 Updates v1.0 : </h2>
  
 <h4>
 
@@ -177,9 +177,9 @@
 Apache 2.0 © Techie Sneh<br>
 
 <h3> ✉️ Contact Us : </h3>
-[Techie Sneh](https://telegram.me/techiesneh)
+[Techie Sneh](https://telegram.me/bloginstall)
 
 <h4> Star ✨ This Repo if you Liked 👌 it ⭐⭐⭐ </h4>
 
 ---
-<h5 align='center'>© 2021 Techie Sneh</h5>
+<h5 align='center'>© 2021 Bloginstall</h5>
