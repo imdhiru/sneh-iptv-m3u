@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MADNI TV SD" tvg-logo="" group-title=" ISLAMIC",MADNI TV SD
+http://opplex.tv:8080/4682/4682/2
+#EXTINF:-1 tvg-id="aryqtv.pk" tvg-name="ARY QTV*" tvg-logo="" group-title=" ISLAMIC",ARY QTV*
+http://opplex.tv:8080/4682/4682/3
+#EXTINF:-1 tvg-id="" tvg-name="AL-QURAN AL-KAREEM*" tvg-logo="" group-title=" ISLAMIC",AL-QURAN AL-KAREEM*
+http://opplex.tv:8080/4682/4682/4
+#EXTINF:-1 tvg-id="" tvg-name="IMAM HUSSAIN TV 4 URDU" tvg-logo="" group-title=" ISLAMIC",IMAM HUSSAIN TV 4 URDU
+http://opplex.tv:8080/4682/4682/5
+#EXTINF:-1 tvg-id="" tvg-name="IMAM HUSSAIN 3 TV" tvg-logo="" group-title=" ISLAMIC",IMAM HUSSAIN 3 TV
+http://opplex.tv:8080/4682/4682/6
+#EXTINF:-1 tvg-id="" tvg-name="HADI TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hadi_tv_pk.png" group-title=" ISLAMIC",HADI TV
+http://opplex.tv:8080/4682/4682/7
+#EXTINF:-1 tvg-id="" tvg-name="PAIGHAM URDU" tvg-logo="" group-title=" ISLAMIC",PAIGHAM URDU
+http://opplex.tv:8080/4682/4682/8
+#EXTINF:-1 tvg-id="" tvg-name="ALBAYAT TV" tvg-logo="" group-title=" ISLAMIC",ALBAYAT TV
+http://opplex.tv:8080/4682/4682/9
+#EXTINF:-1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="" group-title=" ISLAMIC",MAKKA TV LIVE*
+http://opplex.tv:8080/4682/4682/10
+#EXTINF:-1 tvg-id="" tvg-name="PEACE TV URDU*" tvg-logo="" group-title=" ISLAMIC",PEACE TV URDU*
+http://opplex.tv:8080/4682/4682/11
+#EXTINF:-1 tvg-id="" tvg-name="NAZRANA TV**" tvg-logo="" group-title=" ISLAMIC",NAZRANA TV**
+http://opplex.tv:8080/4682/4682/13
+#EXTINF:-1 tvg-id="" tvg-name="MADINA LIVE*" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title=" ISLAMIC",MADINA LIVE*
+http://opplex.tv:8080/4682/4682/26
+#EXTINF:-1 tvg-id="" tvg-name="AL-SUNNAH**" tvg-logo="" group-title=" ISLAMIC",AL-SUNNAH**
+http://opplex.tv:8080/4682/4682/57
+#EXTINF:-1 tvg-id="" tvg-name="NOOR TV" tvg-logo="" group-title=" ISLAMIC",NOOR TV
+http://opplex.tv:8080/4682/4682/92
+#EXTINF:-1 tvg-id="" tvg-name="Hidayat TV" tvg-logo="" group-title=" ISLAMIC",Hidayat TV
+http://opplex.tv:8080/4682/4682/26017
+#EXTINF:-1 tvg-id="" tvg-name="Islam Channel Urdu"" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUEAAACdCAMAAAAdWzrjAAAAk1BMVEUAfKv///8AeaoAeKpVpcZAm8MAf6////3z+PrD3+qWxdkAhbMrkLgAeKkAdqlpq8mFu9TL4+3k8PXM3+qhy9ySv9bX6fHt9PhUnsMAfrCLvtOSxNq32Ob3+/x4s81qqskMi7gAhrj49fSsz+APibWDssze7fS61+Vfqcdxsc1XosVEm748kLljosODs8x3rco+n8Pm0m9VAAARIElEQVR4nO2d6YKiOhaAIVEahEKkFRoVyx4ZN6pvz/s/3ZAQIMthtUrKq+dPtywBvjokZ0vQdF23Uu0l/cWYHDN4uqbrJxuNfTOPKcjZUoKB8dgADXskMRCyA0JwjsdmcJOg99gcR4JdhNNY14722AxuEzTXR5NZhA+6tnrsdzgj+GM8hHP3qmuTF8Hh4iMj0JyxEdwooxLMlHClGWMjuFHGJ" group-title=" ISLAMIC",Islam Channel Urdu"
+http://opplex.tv:8080/4682/4682/26021
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live"" tvg-logo="" group-title=" ISLAMIC",Makkah Live"
+http://opplex.tv:8080/4682/4682/26028
+#EXTINF:-1 tvg-id="" tvg-name="Al Zahra Tv" tvg-logo="" group-title=" ISLAMIC",Al Zahra Tv
+http://opplex.tv:8080/4682/4682/26035
+#EXTINF:-1 tvg-id="" tvg-name="NOHA CHANNEL*" tvg-logo="" group-title=" ISLAMIC",NOHA CHANNEL*
+http://opplex.tv:8080/4682/4682/54961
+#EXTINF:-1 tvg-id="" tvg-name="PK | Paigam Pushto" tvg-logo="" group-title=" ISLAMIC",PK | Paigam Pushto
+http://opplex.tv:8080/4682/4682/103644
+#EXTINF:-1 tvg-id="" tvg-name="PK: QURAN TV URDU*" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" ISLAMIC",PK: QURAN TV URDU*
+http://opplex.tv:8080/4682/4682/103657
+#EXTINF:-1 tvg-id="" tvg-name="PK: Eman TV**" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" ISLAMIC",PK: Eman TV**
+http://opplex.tv:8080/4682/4682/103658
+#EXTINF:-1 tvg-id="" tvg-name="PK: Noor TV**" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" ISLAMIC",PK: Noor TV**
+http://opplex.tv:8080/4682/4682/103660
+#EXTINF:-1 tvg-id="" tvg-name="PK: IQRA Bangla TV**" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title=" ISLAMIC",PK: IQRA Bangla TV**
