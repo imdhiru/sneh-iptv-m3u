@@ -174,12 +174,12 @@
 <br> 
 
 <h3> 🎫 Licence : </h3>
-Apache 2.0 © Techie Sneh<br>
+Apache 2.0 © Bloginstall<br>
 
 <h3> ✉️ Contact Us : </h3>
-[Techie Sneh](https://telegram.me/techiesneh)
+[Bloginstall Telegram](https://telegram.me/bloginstall)
 
 <h4> Star ✨ This Repo if you Liked 👌 it ⭐⭐⭐ </h4>
 
 ---
-<h5 align='center'>© 2021 Techie Sneh</h5>
+<h5 align='center'>© 2021 Bloginstall.com</h5>
