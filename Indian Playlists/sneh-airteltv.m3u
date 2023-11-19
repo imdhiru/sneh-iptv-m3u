@@ -1,5 +1,5 @@
 ﻿#EXTM3U 
-#EXTINF:-1 group-title="Sneh Regional" tvg-id="Techie Sneh" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
+#EXTINF:-1 group-title="Bloginstall Regional" tvg-id="Bloginstall" tvg-logo="https://i.ibb.co/5BsHSxF/20210806-125945.png" ,Techie Sneh
 https://github.com/techiesneh
 #EXTINF: group-title="Sneh Regional" ,Dhinchaak
 http://14.199.164.20:4001/play/a0o5/index.m3u8
