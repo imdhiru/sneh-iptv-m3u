@@ -5,7 +5,7 @@
 
 <p align="center">🔕 Bloginstall IPTV Weekly Update 🔕 <br> On Sunday Only</p><br>
 
-
+<p>Indian STB EMU Portal link / IPTV / Stalker portal / M3U / M3u8 links</p>
 <h2> 🍃 Updates v1.0 : </h2>
  
 <h4>
@@ -25,7 +25,6 @@
 
 <h2> 📙 Playlists Links : </h2>
 
-<p align="left"><img src="https://i.ibb.co/5BsHSxF/20210806-125945.png" width="100" height="100"></p>
 
 ### TechieSneh IPTV+ v3.6 [JIO TV LInKs Updated]
 • JioTv, Zee5, SunNxt, MX Play & Sony Channels Added<br>
